@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#E91E63"  # 핑크색 → 체크박스 포인트에 적용됨
+backgroundColor = "#FFF8E1"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#9C27B0"
+font = "serif"
